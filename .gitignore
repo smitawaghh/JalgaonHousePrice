@@ -1,5 +1,19 @@
 ﻿__pycache__/
 *.pyc
 .venv/
-outputs/
 .ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+
+# ignore all outputs by default
+outputs/*
+
+# keep these model artifacts for the live demo
+!outputs/model.pkl
+!outputs/feature_importance.csv
+
+# keep the demo plots visible in README
+!outputs/figures/
+!outputs/figures/*.png
