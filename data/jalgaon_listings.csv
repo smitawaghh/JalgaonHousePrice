@@ -1,0 +1,316 @@
+﻿area_sqft,bhk,bathrooms,locality,property_type,furnishing,age_bucket,floor,total_floors,price_in_inr
+850,2,2,Mehrun,Apartment,Semi Furnished,0-5 yrs,2,6,3600000
+1050,3,2,Navi Peth,Apartment,Fully Furnished,5-10 yrs,4,10,5200000
+1400,3,3,Ring Road,Independent House,Fully Furnished,0-5 yrs,1,2,6900000
+680,1,1,Khedi,Apartment,Unfurnished,10+ yrs,1,5,2400000
+980,2,2,Chandwad Naka,Row House,Semi Furnished,5-10 yrs,1,2,4100000
+750,1,1,Khadke Nagar,Apartment,Unfurnished,10+ yrs,3,7,2550000
+1250,3,2,Navi Peth,Apartment,Semi Furnished,0-5 yrs,5,12,5600000
+900,2,2,RTO Office Area,Apartment,Semi Furnished,0-5 yrs,6,12,4300000
+1500,4,3,Ganesh Colony,Independent House,Fully Furnished,0-5 yrs,1,2,7200000
+820,2,1,Jilha Peth,Apartment,Unfurnished,5-10 yrs,2,6,3100000
+1120,3,2,Shiv Colony,Row House,Semi Furnished,5-10 yrs,2,2,5400000
+1320,3,3,Ring Road,Apartment,Fully Furnished,0-5 yrs,7,12,6400000
+980,2,2,Navi Peth,Apartment,Semi Furnished,0-5 yrs,5,10,5050000
+760,1,1,Bhagur,Apartment,Unfurnished,10+ yrs,1,4,2200000
+1180,3,2,Mehrun,Apartment,Semi Furnished,0-5 yrs,4,8,5150000
+1076,3,3,Ganesh Colony,Independent House,Semi Furnished,0-5 yrs,1,2,5773000
+920,2,2,Navi Peth,Row House,Unfurnished,10+ yrs,8,9,5662000
+785,2,2,Navi Peth,Independent House,Unfurnished,10+ yrs,1,1,4125000
+1305,3,3,Ganesh Colony,Row House,Semi Furnished,0-5 yrs,4,8,7920000
+1107,3,4,Pimprala,Independent House,Unfurnished,0-5 yrs,1,2,6228000
+971,2,3,Jilha Peth,Apartment,Semi Furnished,0-5 yrs,1,6,4025000
+833,2,3,Ganesh Colony,Row House,Unfurnished,0-5 yrs,5,6,5001000
+1016,3,4,Pimprala,Row House,Semi Furnished,5-10 yrs,7,11,4470000
+1373,3,3,Ganesh Colony,Row House,Semi Furnished,5-10 yrs,4,4,7854000
+1177,3,4,Chandwad Naka,Independent House,Unfurnished,0-5 yrs,1,1,5723000
+716,2,3,Ring Road,Row House,Unfurnished,5-10 yrs,1,7,4072000
+922,2,2,Ganesh Colony,Row House,Unfurnished,0-5 yrs,1,5,4575000
+882,2,3,Jilha Peth,Row House,Semi Furnished,0-5 yrs,1,5,4212000
+578,1,1,Old Jalgaon,Apartment,Unfurnished,10+ yrs,8,8,2125000
+1324,3,2,Pimprala,Apartment,Unfurnished,0-5 yrs,1,12,5597000
+568,1,1,Khedi,Apartment,Semi Furnished,0-5 yrs,8,9,2417000
+1058,3,2,Bhagur,Apartment,Semi Furnished,0-5 yrs,9,11,5220000
+1208,3,3,Bhagur,Apartment,Unfurnished,5-10 yrs,3,13,4307000
+655,2,2,Shiv Colony,Apartment,Fully Furnished,5-10 yrs,2,4,3742000
+1728,4,4,Old Jalgaon,Apartment,Semi Furnished,0-5 yrs,10,10,7579000
+964,2,1,RTO Office Area,Row House,Fully Furnished,0-5 yrs,4,7,4396000
+986,2,3,Khedi,Row House,Unfurnished,10+ yrs,13,13,3824000
+1532,3,2,Tambapura,Independent House,Unfurnished,10+ yrs,1,2,7098000
+989,2,3,Old Jalgaon,Apartment,Unfurnished,0-5 yrs,5,5,4778000
+1039,3,4,Mehrun,Row House,Semi Furnished,0-5 yrs,4,4,5633000
+1107,3,4,Pimprala,Independent House,Fully Furnished,0-5 yrs,1,1,7500000
+955,2,3,Khadke Nagar,Independent House,Fully Furnished,0-5 yrs,1,2,5261000
+901,2,2,Jilha Peth,Independent House,Unfurnished,0-5 yrs,1,1,5011000
+487,1,1,Jilha Peth,Row House,Semi Furnished,0-5 yrs,11,12,2717000
+1007,3,4,Ganesh Colony,Apartment,Fully Furnished,0-5 yrs,5,15,6274000
+1334,3,3,Chandwad Naka,Row House,Unfurnished,5-10 yrs,3,15,5660000
+1057,3,3,Ring Road,Row House,Semi Furnished,10+ yrs,10,12,5068000
+1078,3,3,Navi Peth,Apartment,Semi Furnished,0-5 yrs,5,13,5105000
+780,2,2,Navi Peth,Independent House,Fully Furnished,5-10 yrs,1,2,4039000
+1459,3,4,Navi Peth,Row House,Semi Furnished,0-5 yrs,1,4,7474000
+1194,3,4,Shiv Colony,Apartment,Unfurnished,0-5 yrs,2,9,5428000
+1058,3,4,Ring Road,Independent House,Semi Furnished,0-5 yrs,1,2,6962000
+1000,3,4,Tambapura,Independent House,Unfurnished,0-5 yrs,1,1,6441000
+1096,3,2,Ring Road,Apartment,Semi Furnished,0-5 yrs,1,8,6088000
+563,1,2,Tambapura,Row House,Fully Furnished,10+ yrs,6,7,2688000
+926,2,3,Khadke Nagar,Row House,Semi Furnished,10+ yrs,9,10,4545000
+1073,3,3,Ring Road,Apartment,Semi Furnished,0-5 yrs,3,11,5159000
+917,2,2,RTO Office Area,Apartment,Unfurnished,10+ yrs,9,12,5064000
+1109,3,4,Old Jalgaon,Row House,Semi Furnished,10+ yrs,6,10,4865000
+1247,3,2,Mehrun,Independent House,Fully Furnished,0-5 yrs,1,2,8551000
+1455,4,3,Jilha Peth,Row House,Unfurnished,10+ yrs,5,6,7913000
+825,2,3,Old Jalgaon,Apartment,Semi Furnished,0-5 yrs,4,7,3643000
+1152,3,3,Jilha Peth,Independent House,Semi Furnished,5-10 yrs,1,2,6189000
+852,2,3,Tambapura,Apartment,Unfurnished,0-5 yrs,6,9,3896000
+1203,3,4,RTO Office Area,Row House,Semi Furnished,0-5 yrs,12,14,6718000
+1095,3,3,Navi Peth,Row House,Unfurnished,0-5 yrs,4,5,5637000
+1050,3,3,Jilha Peth,Apartment,Fully Furnished,5-10 yrs,7,8,5942000
+948,2,3,Navi Peth,Apartment,Semi Furnished,5-10 yrs,1,10,4861000
+687,2,3,Ganesh Colony,Apartment,Unfurnished,10+ yrs,7,9,2507000
+1013,3,4,Khedi,Apartment,Fully Furnished,0-5 yrs,11,11,4478000
+1190,3,4,MJ College Road,Row House,Unfurnished,0-5 yrs,4,4,6774000
+1130,3,4,MJ College Road,Apartment,Unfurnished,0-5 yrs,8,13,4665000
+450,1,1,Ring Road,Row House,Fully Furnished,5-10 yrs,11,13,3235000
+1338,3,4,Shiv Colony,Independent House,Fully Furnished,0-5 yrs,1,2,7219000
+1200,3,4,Jilha Peth,Row House,Semi Furnished,0-5 yrs,3,4,6350000
+542,1,1,Khadke Nagar,Independent House,Unfurnished,10+ yrs,1,1,2558000
+952,2,3,Shiv Colony,Independent House,Fully Furnished,0-5 yrs,1,1,5171000
+917,2,2,Old Jalgaon,Apartment,Semi Furnished,0-5 yrs,5,5,4954000
+1040,3,3,Navi Peth,Apartment,Unfurnished,5-10 yrs,6,8,5235000
+602,1,2,Shiv Colony,Independent House,Unfurnished,0-5 yrs,1,1,4215000
+759,2,2,Shiv Colony,Independent House,Semi Furnished,5-10 yrs,1,2,4301000
+1265,3,2,Ganesh Colony,Independent House,Unfurnished,5-10 yrs,1,2,8203000
+1145,3,4,Jilha Peth,Row House,Semi Furnished,0-5 yrs,6,10,6734000
+1091,3,4,Navi Peth,Apartment,Unfurnished,0-5 yrs,4,12,4652000
+502,1,2,Tambapura,Independent House,Unfurnished,5-10 yrs,1,1,1737000
+864,2,1,Old Jalgaon,Independent House,Unfurnished,5-10 yrs,1,2,3507000
+1024,3,3,Ring Road,Row House,Semi Furnished,0-5 yrs,5,6,7278000
+757,2,1,Mehrun,Row House,Fully Furnished,0-5 yrs,5,10,4409000
+1032,3,2,Ganesh Colony,Independent House,Unfurnished,0-5 yrs,1,1,6025000
+608,1,1,Chandwad Naka,Apartment,Semi Furnished,5-10 yrs,1,9,2096000
+1061,3,2,Shiv Colony,Independent House,Semi Furnished,5-10 yrs,1,2,5405000
+1165,3,2,MJ College Road,Row House,Semi Furnished,5-10 yrs,11,12,6359000
+811,2,1,Tambapura,Independent House,Semi Furnished,5-10 yrs,1,1,3579000
+1083,3,3,Bhagur,Independent House,Unfurnished,0-5 yrs,1,1,5083000
+1137,3,3,Chandwad Naka,Apartment,Unfurnished,0-5 yrs,2,11,4779000
+1334,3,4,MJ College Road,Independent House,Semi Furnished,10+ yrs,1,2,6160000
+731,2,3,Navi Peth,Apartment,Semi Furnished,0-5 yrs,7,11,4455000
+694,2,1,Chandwad Naka,Row House,Semi Furnished,0-5 yrs,1,12,2951000
+869,2,1,MJ College Road,Row House,Semi Furnished,10+ yrs,3,6,4302000
+843,2,2,Tambapura,Apartment,Fully Furnished,0-5 yrs,1,15,3736000
+1058,3,3,Pimprala,Row House,Semi Furnished,10+ yrs,9,12,5258000
+846,2,1,Bhagur,Apartment,Unfurnished,5-10 yrs,4,14,3465000
+897,2,3,Bhagur,Row House,Unfurnished,10+ yrs,4,10,4597000
+515,1,1,RTO Office Area,Apartment,Fully Furnished,0-5 yrs,5,7,2554000
+1174,3,2,Shiv Colony,Row House,Unfurnished,0-5 yrs,2,10,5887000
+1041,3,3,MJ College Road,Apartment,Unfurnished,0-5 yrs,1,9,5309000
+782,2,1,Old Jalgaon,Independent House,Unfurnished,0-5 yrs,1,2,3789000
+914,2,3,RTO Office Area,Row House,Unfurnished,0-5 yrs,13,14,4273000
+1196,3,3,Bhagur,Apartment,Unfurnished,0-5 yrs,2,7,6213000
+1096,3,2,Shiv Colony,Row House,Unfurnished,5-10 yrs,15,15,5680000
+880,2,1,Shiv Colony,Apartment,Semi Furnished,10+ yrs,4,5,3996000
+450,1,1,Pimprala,Apartment,Unfurnished,0-5 yrs,1,10,1705000
+1278,3,2,Ring Road,Row House,Unfurnished,0-5 yrs,5,5,7118000
+944,2,3,Mehrun,Independent House,Unfurnished,0-5 yrs,1,1,5177000
+696,2,3,Ring Road,Apartment,Unfurnished,5-10 yrs,8,9,3850000
+450,1,2,Jilha Peth,Row House,Unfurnished,0-5 yrs,3,12,1891000
+1111,3,4,Khadke Nagar,Apartment,Unfurnished,0-5 yrs,4,4,5476000
+1201,3,2,Navi Peth,Row House,Unfurnished,5-10 yrs,3,11,5412000
+1232,3,3,Jilha Peth,Independent House,Unfurnished,5-10 yrs,1,2,6181000
+746,2,3,Old Jalgaon,Independent House,Fully Furnished,0-5 yrs,1,2,4534000
+1110,3,4,Chandwad Naka,Apartment,Unfurnished,0-5 yrs,2,13,4647000
+1020,3,4,Khadke Nagar,Independent House,Semi Furnished,5-10 yrs,1,2,6174000
+1337,3,2,Navi Peth,Row House,Semi Furnished,0-5 yrs,4,5,6887000
+980,2,2,Shiv Colony,Row House,Semi Furnished,0-5 yrs,9,10,5512000
+729,2,1,Chandwad Naka,Row House,Semi Furnished,0-5 yrs,2,4,3005000
+1248,3,3,Khadke Nagar,Apartment,Fully Furnished,0-5 yrs,7,11,5867000
+1094,3,3,Khedi,Row House,Semi Furnished,10+ yrs,2,10,4508000
+855,2,2,RTO Office Area,Independent House,Unfurnished,0-5 yrs,1,2,4575000
+1068,3,4,RTO Office Area,Row House,Unfurnished,0-5 yrs,13,15,5850000
+470,1,2,Pimprala,Independent House,Unfurnished,5-10 yrs,1,2,2176000
+1098,3,4,Shiv Colony,Independent House,Fully Furnished,10+ yrs,1,1,5365000
+1356,3,3,Pimprala,Independent House,Fully Furnished,0-5 yrs,1,1,8490000
+1032,3,3,Chandwad Naka,Independent House,Semi Furnished,0-5 yrs,1,2,5975000
+877,2,1,Khadke Nagar,Independent House,Unfurnished,0-5 yrs,1,1,5033000
+515,1,1,Old Jalgaon,Row House,Unfurnished,5-10 yrs,4,6,2290000
+664,2,3,Jilha Peth,Independent House,Semi Furnished,0-5 yrs,1,1,3390000
+1015,3,2,Khedi,Independent House,Unfurnished,0-5 yrs,1,1,4788000
+1056,3,2,Navi Peth,Row House,Fully Furnished,10+ yrs,1,11,6268000
+892,2,2,Navi Peth,Row House,Semi Furnished,5-10 yrs,8,14,5141000
+1262,3,2,RTO Office Area,Independent House,Semi Furnished,0-5 yrs,1,2,7380000
+963,2,2,Ring Road,Apartment,Fully Furnished,0-5 yrs,6,6,4952000
+730,2,2,Khadke Nagar,Independent House,Unfurnished,0-5 yrs,1,1,4601000
+1359,3,3,Jilha Peth,Row House,Unfurnished,0-5 yrs,1,6,6538000
+958,2,3,Chandwad Naka,Independent House,Semi Furnished,5-10 yrs,1,2,4962000
+1112,3,3,Navi Peth,Independent House,Fully Furnished,0-5 yrs,1,1,6463000
+1235,3,3,RTO Office Area,Apartment,Fully Furnished,0-5 yrs,9,14,7401000
+911,2,2,Khadke Nagar,Row House,Fully Furnished,5-10 yrs,6,15,5203000
+709,2,2,Shiv Colony,Apartment,Unfurnished,5-10 yrs,7,11,3408000
+1404,3,4,Jilha Peth,Independent House,Semi Furnished,0-5 yrs,1,2,7189000
+1231,3,4,Pimprala,Apartment,Unfurnished,5-10 yrs,4,9,5092000
+739,2,3,Ganesh Colony,Apartment,Semi Furnished,5-10 yrs,7,11,3269000
+1183,3,4,Old Jalgaon,Row House,Unfurnished,0-5 yrs,7,7,5537000
+1217,3,3,Old Jalgaon,Row House,Semi Furnished,0-5 yrs,8,8,6683000
+1032,3,3,Chandwad Naka,Independent House,Semi Furnished,0-5 yrs,1,2,5908000
+1085,3,3,Chandwad Naka,Row House,Semi Furnished,5-10 yrs,1,7,4837000
+874,2,3,Tambapura,Row House,Semi Furnished,0-5 yrs,6,6,4265000
+1084,3,2,MJ College Road,Row House,Unfurnished,5-10 yrs,8,10,4968000
+1009,3,2,Bhagur,Apartment,Fully Furnished,0-5 yrs,4,7,4657000
+999,2,3,Old Jalgaon,Independent House,Unfurnished,10+ yrs,1,2,4379000
+1174,3,4,Ganesh Colony,Independent House,Unfurnished,0-5 yrs,1,1,7012000
+1109,3,4,Ring Road,Row House,Semi Furnished,5-10 yrs,3,5,5850000
+1037,3,3,Chandwad Naka,Apartment,Semi Furnished,0-5 yrs,3,7,4809000
+838,2,1,RTO Office Area,Apartment,Unfurnished,5-10 yrs,5,5,3737000
+721,2,1,RTO Office Area,Independent House,Unfurnished,0-5 yrs,1,2,5088000
+853,2,1,Old Jalgaon,Independent House,Unfurnished,5-10 yrs,1,1,4176000
+897,2,2,Navi Peth,Row House,Unfurnished,0-5 yrs,7,13,5550000
+1045,3,3,Ring Road,Row House,Fully Furnished,5-10 yrs,1,5,6680000
+1310,3,2,Ganesh Colony,Apartment,Unfurnished,5-10 yrs,7,9,6536000
+801,2,2,Old Jalgaon,Independent House,Unfurnished,5-10 yrs,1,2,3410000
+1025,3,4,Shiv Colony,Row House,Unfurnished,0-5 yrs,4,7,5021000
+1000,3,2,Ganesh Colony,Row House,Unfurnished,5-10 yrs,10,13,5554000
+475,1,2,Chandwad Naka,Row House,Semi Furnished,10+ yrs,1,4,2228000
+1015,3,2,Pimprala,Apartment,Semi Furnished,5-10 yrs,4,10,3354000
+1003,3,3,Old Jalgaon,Apartment,Unfurnished,0-5 yrs,1,5,4708000
+1240,3,4,Khadke Nagar,Row House,Unfurnished,0-5 yrs,3,11,6317000
+645,1,2,Bhagur,Apartment,Semi Furnished,0-5 yrs,6,7,2460000
+1614,3,4,Ganesh Colony,Apartment,Unfurnished,5-10 yrs,4,8,7393000
+978,2,1,Tambapura,Independent House,Unfurnished,0-5 yrs,1,2,4729000
+1213,3,3,Khedi,Row House,Unfurnished,0-5 yrs,3,4,5771000
+964,2,3,Navi Peth,Independent House,Semi Furnished,10+ yrs,1,1,7082000
+693,2,1,Chandwad Naka,Row House,Unfurnished,0-5 yrs,2,8,3305000
+974,2,2,Tambapura,Apartment,Unfurnished,0-5 yrs,4,7,4470000
+877,2,2,Tambapura,Row House,Fully Furnished,0-5 yrs,2,13,3181000
+701,2,1,Tambapura,Row House,Fully Furnished,5-10 yrs,2,13,3093000
+1182,3,4,Jilha Peth,Row House,Semi Furnished,10+ yrs,3,15,4579000
+1021,3,4,RTO Office Area,Row House,Unfurnished,0-5 yrs,3,11,6408000
+749,2,1,Shiv Colony,Independent House,Unfurnished,0-5 yrs,1,2,3666000
+957,2,2,Pimprala,Apartment,Semi Furnished,5-10 yrs,4,8,3981000
+842,2,3,RTO Office Area,Apartment,Unfurnished,0-5 yrs,5,8,4210000
+888,2,3,Pimprala,Row House,Unfurnished,10+ yrs,14,15,4578000
+1384,3,3,Old Jalgaon,Row House,Fully Furnished,5-10 yrs,8,8,7176000
+1090,3,2,Navi Peth,Apartment,Semi Furnished,10+ yrs,3,6,5648000
+1062,3,4,Chandwad Naka,Row House,Unfurnished,5-10 yrs,1,14,4607000
+467,1,1,Mehrun,Independent House,Fully Furnished,10+ yrs,1,2,2127000
+1013,3,4,Shiv Colony,Independent House,Unfurnished,10+ yrs,1,2,4389000
+750,2,2,MJ College Road,Independent House,Unfurnished,0-5 yrs,1,1,4451000
+1100,3,2,Khedi,Apartment,Fully Furnished,0-5 yrs,8,15,4561000
+809,2,2,Khedi,Apartment,Semi Furnished,0-5 yrs,5,8,3230000
+969,2,2,Shiv Colony,Apartment,Unfurnished,0-5 yrs,10,10,5161000
+1464,3,2,Shiv Colony,Independent House,Fully Furnished,5-10 yrs,1,1,8899000
+868,2,2,RTO Office Area,Row House,Fully Furnished,0-5 yrs,5,6,5270000
+936,2,1,Old Jalgaon,Row House,Unfurnished,0-5 yrs,1,14,4469000
+873,2,3,MJ College Road,Independent House,Unfurnished,0-5 yrs,1,2,4337000
+905,2,1,Jilha Peth,Apartment,Fully Furnished,0-5 yrs,11,12,4789000
+1207,3,3,Tambapura,Independent House,Unfurnished,5-10 yrs,1,2,6080000
+1072,3,2,Old Jalgaon,Independent House,Semi Furnished,5-10 yrs,1,2,4755000
+1023,3,2,Navi Peth,Row House,Semi Furnished,0-5 yrs,1,4,6499000
+1115,3,4,Tambapura,Apartment,Fully Furnished,0-5 yrs,5,8,5054000
+1295,3,3,Ring Road,Independent House,Unfurnished,0-5 yrs,1,1,8702000
+1162,3,3,Bhagur,Row House,Fully Furnished,5-10 yrs,4,6,6601000
+786,2,3,Jilha Peth,Apartment,Unfurnished,10+ yrs,6,14,3221000
+1097,3,3,Chandwad Naka,Apartment,Semi Furnished,0-5 yrs,9,11,5873000
+932,2,1,Pimprala,Apartment,Unfurnished,5-10 yrs,6,10,3791000
+450,1,1,Jilha Peth,Independent House,Unfurnished,0-5 yrs,1,1,2235000
+963,2,2,Ring Road,Independent House,Semi Furnished,10+ yrs,1,2,5135000
+1127,3,4,Bhagur,Row House,Unfurnished,5-10 yrs,3,13,5432000
+1089,3,4,Pimprala,Row House,Fully Furnished,0-5 yrs,5,11,6135000
+678,2,2,Ganesh Colony,Independent House,Semi Furnished,0-5 yrs,1,1,4565000
+450,1,1,MJ College Road,Row House,Unfurnished,10+ yrs,6,7,2657000
+1140,3,2,Khadke Nagar,Row House,Semi Furnished,5-10 yrs,3,14,5693000
+1082,3,3,Chandwad Naka,Apartment,Unfurnished,5-10 yrs,6,7,4355000
+1080,3,4,Shiv Colony,Row House,Fully Furnished,0-5 yrs,8,9,6375000
+1082,3,2,Jilha Peth,Independent House,Unfurnished,5-10 yrs,1,1,6595000
+1016,3,2,Ganesh Colony,Row House,Unfurnished,0-5 yrs,4,7,5681000
+921,2,3,Ring Road,Row House,Fully Furnished,5-10 yrs,9,9,5566000
+1269,3,4,Navi Peth,Row House,Semi Furnished,5-10 yrs,2,4,7546000
+708,2,2,Old Jalgaon,Apartment,Unfurnished,5-10 yrs,4,4,2884000
+934,2,1,Chandwad Naka,Apartment,Unfurnished,5-10 yrs,6,8,3282000
+1137,3,4,Mehrun,Apartment,Unfurnished,0-5 yrs,11,11,5198000
+842,2,3,Khadke Nagar,Row House,Fully Furnished,0-5 yrs,6,6,4596000
+713,2,3,Ganesh Colony,Apartment,Unfurnished,10+ yrs,3,10,3220000
+1006,3,4,Pimprala,Independent House,Unfurnished,10+ yrs,1,2,4034000
+1257,3,3,Old Jalgaon,Row House,Unfurnished,5-10 yrs,3,4,5276000
+594,1,2,Khadke Nagar,Independent House,Unfurnished,0-5 yrs,1,2,2610000
+956,2,2,Pimprala,Row House,Fully Furnished,0-5 yrs,5,11,5420000
+733,2,1,Pimprala,Row House,Semi Furnished,0-5 yrs,1,5,3994000
+1048,3,2,Mehrun,Row House,Fully Furnished,0-5 yrs,4,11,5882000
+830,2,2,Ganesh Colony,Row House,Fully Furnished,0-5 yrs,2,6,5192000
+1190,3,2,Khadke Nagar,Apartment,Fully Furnished,10+ yrs,6,6,6448000
+1269,3,3,Chandwad Naka,Apartment,Semi Furnished,0-5 yrs,2,11,5799000
+1243,3,4,Ring Road,Row House,Semi Furnished,5-10 yrs,4,4,5643000
+626,1,1,Jilha Peth,Row House,Semi Furnished,0-5 yrs,9,10,3420000
+1134,3,4,Chandwad Naka,Row House,Semi Furnished,0-5 yrs,7,8,5137000
+1032,3,2,Old Jalgaon,Independent House,Semi Furnished,5-10 yrs,1,1,5478000
+1055,3,3,MJ College Road,Apartment,Semi Furnished,0-5 yrs,5,7,5512000
+943,2,3,Mehrun,Independent House,Semi Furnished,5-10 yrs,1,2,4578000
+743,2,3,Chandwad Naka,Independent House,Semi Furnished,0-5 yrs,1,1,3852000
+964,2,2,Ganesh Colony,Row House,Unfurnished,5-10 yrs,3,10,4328000
+687,2,2,Jilha Peth,Independent House,Unfurnished,0-5 yrs,1,2,3530000
+876,2,1,Bhagur,Independent House,Semi Furnished,5-10 yrs,1,2,4065000
+1256,3,2,MJ College Road,Row House,Unfurnished,5-10 yrs,2,13,5745000
+854,2,1,Tambapura,Apartment,Unfurnished,0-5 yrs,1,5,2970000
+1480,3,2,Ring Road,Apartment,Fully Furnished,5-10 yrs,4,5,8059000
+992,2,2,Jilha Peth,Row House,Unfurnished,0-5 yrs,3,12,4666000
+1027,3,3,Ganesh Colony,Apartment,Unfurnished,10+ yrs,4,12,4865000
+855,2,3,Pimprala,Apartment,Unfurnished,5-10 yrs,5,7,3234000
+1274,3,4,RTO Office Area,Independent House,Semi Furnished,5-10 yrs,1,1,6449000
+805,2,2,Shiv Colony,Row House,Unfurnished,0-5 yrs,2,4,3846000
+770,2,3,Pimprala,Row House,Fully Furnished,5-10 yrs,1,6,3447000
+1279,3,4,Khedi,Row House,Semi Furnished,5-10 yrs,7,11,6831000
+1023,3,4,Jilha Peth,Independent House,Semi Furnished,5-10 yrs,1,2,5404000
+1075,3,3,Mehrun,Apartment,Unfurnished,0-5 yrs,2,5,4068000
+918,2,3,Old Jalgaon,Apartment,Fully Furnished,0-5 yrs,6,8,4489000
+897,2,1,Pimprala,Apartment,Fully Furnished,5-10 yrs,1,6,3779000
+506,1,2,Khedi,Apartment,Unfurnished,0-5 yrs,7,11,2373000
+1120,3,3,Bhagur,Row House,Fully Furnished,0-5 yrs,6,14,5389000
+1215,3,3,Mehrun,Row House,Fully Furnished,10+ yrs,8,10,6086000
+1103,3,2,Shiv Colony,Apartment,Semi Furnished,0-5 yrs,7,10,4941000
+1002,3,4,Ganesh Colony,Apartment,Fully Furnished,0-5 yrs,1,4,5053000
+903,2,3,Chandwad Naka,Apartment,Semi Furnished,0-5 yrs,5,6,4263000
+957,2,1,Ring Road,Row House,Unfurnished,5-10 yrs,3,6,5092000
+1256,3,3,MJ College Road,Apartment,Unfurnished,10+ yrs,2,4,5822000
+859,2,2,Khadke Nagar,Row House,Semi Furnished,10+ yrs,7,14,4894000
+1356,3,4,Mehrun,Row House,Unfurnished,5-10 yrs,2,4,5438000
+734,2,1,Bhagur,Row House,Fully Furnished,5-10 yrs,1,4,2952000
+460,1,1,Ring Road,Row House,Semi Furnished,0-5 yrs,1,6,2337000
+1267,3,2,Bhagur,Row House,Unfurnished,10+ yrs,10,10,5702000
+882,2,1,MJ College Road,Apartment,Semi Furnished,0-5 yrs,2,15,4078000
+845,2,3,Bhagur,Independent House,Unfurnished,5-10 yrs,1,2,3935000
+1282,3,2,Khedi,Independent House,Unfurnished,10+ yrs,1,1,6210000
+570,1,2,Khedi,Independent House,Fully Furnished,5-10 yrs,1,1,3194000
+709,2,1,Pimprala,Apartment,Semi Furnished,10+ yrs,2,5,2181000
+905,2,2,Navi Peth,Row House,Unfurnished,0-5 yrs,5,12,5373000
+555,1,1,Ring Road,Row House,Semi Furnished,10+ yrs,2,4,2577000
+853,2,2,MJ College Road,Row House,Unfurnished,0-5 yrs,2,9,4770000
+977,2,3,Mehrun,Independent House,Unfurnished,5-10 yrs,1,1,5657000
+664,2,1,Chandwad Naka,Independent House,Unfurnished,0-5 yrs,1,1,3707000
+859,2,1,Ring Road,Independent House,Semi Furnished,5-10 yrs,1,1,5090000
+798,2,1,Pimprala,Apartment,Semi Furnished,10+ yrs,1,7,3387000
+1098,3,4,Pimprala,Independent House,Fully Furnished,10+ yrs,1,2,4953000
+1108,3,3,Khadke Nagar,Row House,Fully Furnished,0-5 yrs,1,8,6803000
+683,2,2,Khadke Nagar,Row House,Semi Furnished,0-5 yrs,1,6,4038000
+992,2,1,Navi Peth,Independent House,Fully Furnished,5-10 yrs,1,1,5766000
+982,2,3,Tambapura,Apartment,Unfurnished,10+ yrs,8,9,4011000
+876,2,2,Khedi,Apartment,Unfurnished,0-5 yrs,3,10,3565000
+751,2,2,Mehrun,Independent House,Unfurnished,5-10 yrs,1,1,3427000
+751,2,1,Shiv Colony,Apartment,Fully Furnished,0-5 yrs,5,6,3650000
+1714,3,4,Pimprala,Independent House,Fully Furnished,10+ yrs,1,1,6709000
+726,2,3,Old Jalgaon,Independent House,Unfurnished,5-10 yrs,1,1,3381000
+1241,3,3,Ring Road,Apartment,Unfurnished,0-5 yrs,15,15,5877000
+1014,3,2,Chandwad Naka,Apartment,Unfurnished,0-5 yrs,6,15,4372000
+1096,3,2,Mehrun,Apartment,Fully Furnished,10+ yrs,1,13,4546000
+1116,3,3,Navi Peth,Row House,Fully Furnished,10+ yrs,3,6,6491000
+1217,3,2,MJ College Road,Independent House,Fully Furnished,5-10 yrs,1,1,5716000
+1192,3,4,Pimprala,Row House,Semi Furnished,10+ yrs,5,13,5489000
+1124,3,2,Bhagur,Independent House,Unfurnished,0-5 yrs,1,2,5601000
+1053,3,3,MJ College Road,Independent House,Unfurnished,5-10 yrs,1,1,5750000
+1048,3,3,Pimprala,Independent House,Semi Furnished,0-5 yrs,1,1,6065000
+905,2,3,Jilha Peth,Row House,Fully Furnished,0-5 yrs,8,15,5577000
+1314,3,2,Mehrun,Apartment,Unfurnished,5-10 yrs,6,15,5407000
+1234,3,4,Ring Road,Apartment,Semi Furnished,0-5 yrs,3,4,5794000
+1056,3,2,Khadke Nagar,Apartment,Semi Furnished,5-10 yrs,4,7,4343000
+1325,3,3,Mehrun,Independent House,Fully Furnished,0-5 yrs,1,2,6352000
+845,2,1,Chandwad Naka,Independent House,Semi Furnished,0-5 yrs,1,1,4719000
+1120,3,2,Bhagur,Apartment,Unfurnished,5-10 yrs,2,5,4101000
